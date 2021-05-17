@@ -1,0 +1,221 @@
+body{
+	min-width: 320px;
+	font-size: 14Ppx;
+	font-family: 'Dancing Script', cursive;
+	font-family: 'Raleway', sans-serif;
+	color: #626262;
+}
+.intro {
+    height: 800px;
+}
+
+
+img{
+	max-width: 100%;
+	height: auto;	
+	
+}
+.nav-item: hover{
+-webkit-animation:slide 3s ease-in-out infinite;
+  animation:slide 3s ease-in-out infinite;
+transition: 0.5s ease-out;
+  transform: translateY(0px);
+	}
+	
+
+}
+a{
+	color: №000000
+}
+a: hover{
+	color: burlywood;
+	
+}
+P{
+    line-height: 1.5rem;
+}
+h5{
+    
+    margin: 1rem 0;
+    font-size: 30px;
+}
+
+header .navbar-light{
+	background-color: #fff;
+}
+header .navbar-brand{
+	font-family: 'Inconsolata', monospace;
+	font-size: 30px;
+	color: #000;
+	text-transform: uppercase;
+}
+
+	
+header .nav-item .nav-link dropdown-toggle{
+	text-transform: uppercase;
+	margin-left: 50px;
+    
+}
+header .nav-item a .nav-link dropdown-toggle::after{
+	content: '';
+	display: block;
+	width: 100%;
+	background-color: #ccc;
+	height: 1px;
+	transform: scale(0);
+	
+	transition: all .3s;
+}
+header .nav-item a: hover::after{
+	transform: scale(1);
+}
+ 
+
+.post-category, 
+.link-more a {
+    font-family: font-family: 'Inconsolata', monospace;
+	text-decoration: none;
+    font-size: 20px;
+    color: #007b5e;
+    font-weight: 300;
+}
+.post-category {
+    text-transform: uppercase;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}  
+.link-more {
+    color: #626262;
+}
+
+.boardz fitted{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    
+}
+.grid-posts .card{
+    border: 0;
+    
+    margin-bottom: 100px;
+}
+   
+}
+.gboardz fitted{
+    max-height: 3395px;
+    max-width: 4930px;
+  	border: 0;
+    padding: 70px;
+    padding-right: 0;
+}
+
+.load-more{
+	padding: 1rem 2rem;
+	border-color: #007b5e;
+;
+	border-radius: 0; 
+	margin-bottom: 65px;
+	margin-top: 65px;
+
+
+}
+.load-more .span{
+	display: none;
+	font-size: 24px;
+}
+
+	
+
+footer{
+	background-color:#007b5e;
+	min-height: 120px;
+	padding: 60px 0;
+	color: #fff;
+	font-size: 20px;
+}
+
+.footer-left .a{
+	color: #ffff;
+	margin-right: 20px;
+	text-decoration: none;
+
+	
+}
+.footer-right, span{
+	color: #fff;
+}
+	
+	.footer-left a{
+	color: #fff;
+	margin-right: 20px;
+}
+.footer-right a{
+	color: #fff;
+	margin-left: 20px;}
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+	
+}
+
+@media only screen and (max-width : 1199px) {
+	
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+	
+}
+
+@media only screen and (max-width : 991px) {
+	
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+
+}
+
+@media only screen and (max-width : 767px) {
+	
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
