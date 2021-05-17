@@ -1,1 +1,1 @@
-# photoartiatic.github.io
+# photoartisic.github.io
